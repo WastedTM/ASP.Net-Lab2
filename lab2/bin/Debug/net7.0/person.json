@@ -1,0 +1,16 @@
+﻿{
+  "Person": {
+    "name": "Artem",
+    "age": 19,
+    "country": "Ukraine",
+    "languages": [
+      "English",
+      "Ukrainian"
+    ],
+    "university": {
+      "name": "Petro Mohyla Black Sea National University",
+      "city": "Mykolaiv",
+      "course": 3
+    }
+  }
+}
